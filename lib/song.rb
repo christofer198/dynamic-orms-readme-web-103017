@@ -62,4 +62,3 @@ end
 
 class Artist < Song
 end
-
